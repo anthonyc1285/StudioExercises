@@ -19,8 +19,6 @@ let weatherStatus = "clear";
 
 let dashes = "-------------------------------------"
 
-
-
 // Write code to generate the LC04 report here:
 console.log(`
 ${dashes}
